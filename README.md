@@ -21,7 +21,6 @@ public class TranVix
         String Address = "Đồng Tháp, Việt Nam";
         String University = "Học Viện Công Nghệ Bưu Chính Viễn Thông Hồ Chí Minh - PTITHCM";
         String Skills = "C++, C, Java, Dart, Python";
-        String FamousQuotes = "Kiên trì, cố gắng và thành công!";
     }
 }
 
@@ -39,6 +38,7 @@ public class TranVix
 ### Secondary skills
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=729ACF&logo=C&logoColor=FFFFFF&label=)
 
 ### Web Services
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=302000&logo=Firebase&logoColor=e09200&label=)
